@@ -1,20 +1,21 @@
 [
   {
-    "name": "MP Materials",
-    "website": "https://mpmaterials.com/", "sector": "Basic Materials", "location": "Las Vegas, Nevada",
-    "description": "MP Materials is a leading producer of rare earth materials in the Western Hemisphere, operating in two segments, Materials and Magnetics.",
-    "people": "Founders: James Litinsky, Michael Rosenthal, and Ryan Corbett",
-    "analysis": "MP Materials is a key player in the rare earth industry, with a strong focus on producing high-quality materials for a range of applications, including clean energy technologies. The company's Mountain Pass mine and processing facility in California is one of the largest rare earth mining operations in the Western Hemisphere, and its magnetic precursor products are used in a variety of industries, including automotive, renewable energy, and electronics. Compared to its competitors, such as Lynas Rare Earths and Iluka Resources, MP Materials has a unique advantage in terms of its vertically integrated business model, which allows it to control the entire production process from mining to manufacturing. However, the company faces intense competition in the global rare earth market, and its financial performance can be impacted by fluctuations in rare earth prices and demand."
+    "name": "Apple Inc.", "website": "https://www.apple.com/",
+    "sector": "Technology and Communications", "location": "Cupertino, California",
+    "description": "Apple Inc. is an American multinational corporation and technology company that designs, manufactures, and markets consumer electronics, software, and services.",
+    "people": "Steve Jobs, Steve Wozniak, Ronald Wayne, Tim Cook",
+    "analysis": "Apple is the largest manufacturing company by revenue, the fourth-largest personal computer vendor by unit sales, the largest vendor of tablet computers, and the largest vendor of mobile phones in the world, competing with companies like Samsung, Google, and Microsoft."
   },
   {
-    "name": "Phoenix Tailings", "website": "https://phoenixtailings.com/", "sector": "Rare Earth Metals Production",
-    "location": "Woburn, Massachusetts", "description": "A U.S.-based rare earth metals production company that has developed innovative technology to process rare earth elements into final metals and metal alloys", "people": "Tomás Villalón, Michelle Chao, Nick Myers, Anthony Balladon",
-    "analysis": "Phoenix Tailings is a leader in the rare earth metals production industry, with a focus on sustainable and circular supply chain practices. The company's innovative technology and commitment to zero-waste, zero-emission objectives set it apart from competitors such as MP Materials and Lynas Rare Earths."
+    "name": "Google", "website": "https://about.google/", "sector": "Technology",
+    "location": "Palo Alto, California", "description": "Google is a search engine company founded in 1998 by Sergey Brin and Larry Page.",
+    "people": "Sundar Pichai, CEO", "analysis": "Google is a leading technology company that has revolutionized web search and expanded into advertising, competing with companies like Microsoft and Amazon."
   },
   {
-    "name": "Lynas Rare Earths", "website": "https://lynasrareearths.com/",
-    "sector": "Rare Earth minerals", "location": "Australia and Malaysia",
-    "description": "Integrated extraction and processing of Rare Earth minerals, primarily in Australia and Malaysia, and development of Rare Earth deposits",
-    "people": "Amanda Lacaze - CEO", "analysis": "Lynas Rare Earths has become the first producer of heavy rare earths outside China, with the successful production of dysprosium at its Malaysia plant, and has engaged with customers in Japan, the United States, and Europe regarding its supply of heavy rare earths, competing with other companies such as Northern Minerals."
+    "name": "Meta", "website": "https://www.meta.com/",
+    "sector": "Technology and Communications", "location": "Menlo Park, California, US",
+    "description": "Meta is a technology conglomerate that owns several major social media and communication platforms, including Facebook, Instagram, WhatsApp, and Messenger, as well as virtual reality products through Oculus.",
+    "people": "Mark Zuckerberg - CEO, Chris Cox - Chief Product Officer, Marne Levine - Chief Business Officer",
+    "analysis": "Meta is a leading player in the technology industry, competing with other major companies such as Apple, Google, and Amazon. The company's focus on building the metaverse and advancing virtual reality technology sets it apart from its competitors."}, {"name": "Microsoft", "website": "https://www.microsoft.com/", "sector": "Technology", "location": "Redmond, Washington", "description": "Microsoft is a multinational technology company that develops, manufactures, and sells computer software, personal computers, and other electronics.", "people": "Bill Gates, Paul Allen, Satya Nadella", "analysis": "Microsoft is a leading player in the technology industry, competing with companies like Apple, Google, and Amazon. It has a strong portfolio of products and services, including Windows, Office, and Azure, and has made significant investments in emerging technologies like artificial intelligence and cloud computing."
   }
 ]
