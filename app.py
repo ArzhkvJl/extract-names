@@ -1,8 +1,6 @@
 import json
 from dotenv import load_dotenv
-from enum import Enum
 from agent import companies, create_agent
-
 
 load_dotenv()
 

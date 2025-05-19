@@ -26,7 +26,6 @@ class InfoResponse(BaseModel):
 def companies(num: str) -> set:
     """Extract company names from the input text"""
     nlp = spacy.load("en_core_web_trf")
-    # nlp = spacy.load("ru_core_news_lg")
 
     content = json.loads(Path("input.json").read_text())[num]
     doc = nlp(content)
@@ -44,6 +43,7 @@ def companies(num: str) -> set:
 
 
 def create_agent():
+    """Create an AI Agent with web search tool"""
     model = ChatGroq(
         model="llama-3.3-70b-versatile", temperature=0.7,)
 
