@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MP Materials",
+    "website": "https://mpmaterials.com/", "sector": "Basic Materials", "location": "Las Vegas, Nevada",
+    "description": "MP Materials is a leading producer of rare earth materials in the Western Hemisphere, operating in two segments, Materials and Magnetics.",
+    "people": "Founders: James Litinsky, Michael Rosenthal, and Ryan Corbett",
+    "analysis": "MP Materials is a key player in the rare earth industry, with a strong focus on producing high-quality materials for a range of applications, including clean energy technologies. The company's Mountain Pass mine and processing facility in California is one of the largest rare earth mining operations in the Western Hemisphere, and its magnetic precursor products are used in a variety of industries, including automotive, renewable energy, and electronics. Compared to its competitors, such as Lynas Rare Earths and Iluka Resources, MP Materials has a unique advantage in terms of its vertically integrated business model, which allows it to control the entire production process from mining to manufacturing. However, the company faces intense competition in the global rare earth market, and its financial performance can be impacted by fluctuations in rare earth prices and demand."
+  },
+  {
+    "name": "Phoenix Tailings", "website": "https://phoenixtailings.com/", "sector": "Rare Earth Metals Production",
+    "location": "Woburn, Massachusetts", "description": "A U.S.-based rare earth metals production company that has developed innovative technology to process rare earth elements into final metals and metal alloys", "people": "Tomás Villalón, Michelle Chao, Nick Myers, Anthony Balladon",
+    "analysis": "Phoenix Tailings is a leader in the rare earth metals production industry, with a focus on sustainable and circular supply chain practices. The company's innovative technology and commitment to zero-waste, zero-emission objectives set it apart from competitors such as MP Materials and Lynas Rare Earths."
+  },
+  {
+    "name": "Lynas Rare Earths", "website": "https://lynasrareearths.com/",
+    "sector": "Rare Earth minerals", "location": "Australia and Malaysia",
+    "description": "Integrated extraction and processing of Rare Earth minerals, primarily in Australia and Malaysia, and development of Rare Earth deposits",
+    "people": "Amanda Lacaze - CEO", "analysis": "Lynas Rare Earths has become the first producer of heavy rare earths outside China, with the successful production of dysprosium at its Malaysia plant, and has engaged with customers in Japan, the United States, and Europe regarding its supply of heavy rare earths, competing with other companies such as Northern Minerals."
+  }
+]
